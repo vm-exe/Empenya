@@ -1,0 +1,32 @@
+  /* Header Styles */
+  .header {
+    background-color: #f3c370;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .logo {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .highlightHeader {
+    color: #f27f77;
+  }
+  
+  .nav-menu a {
+    color: #000;
+    margin-left: 20px;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .nav-menu a:hover {
+    color: #f27f77;
+    background-color: #f27f77;
+    padding: 5px 10px;
+    border-radius: 5px;
+    color: white;
+  }
